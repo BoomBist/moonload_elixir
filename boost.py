@@ -4,7 +4,6 @@ class settings:
     name = 'Boost'
     desc = 'Boost is a set of libraries for the C++ programming language that provide support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing'
 class install:
-    cd = 'cd boost_1_63_0'
-    configure = './bootstrap.sh'
-    build = './b2 install'
+    configure = 'cd boost_1_63_0 && ./bootstrap.sh'
+    build = 'cd boost_1_63_0 && ./b2 install'
 
