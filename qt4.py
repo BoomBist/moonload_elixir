@@ -1,5 +1,6 @@
 class settings:
     url = 'https://download.qt.io/archive/qt/4.8/4.8.0/qt-everywhere-opensource-src-4.8.0.tar.gz'
+    url2 = 'http://ftp.psu.ru/programming/qt/archive/qt/4.8/4.8.0/qt-everywhere-opensource-src-4.8.0.tar.gz'
     package = 'qt-everywhere-opensource-src-4.8.0.tar.gz'
     name = 'QT4 Libraries'
     foldername = 'qt-everywhere-opensource-src-4.8.0'
