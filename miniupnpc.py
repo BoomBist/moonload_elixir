@@ -1,8 +1,7 @@
 import sys
 class settings:
     url = 'https://miniupnp.tuxfamily.org/files/download.php?file=miniupnpd-2.0.20161216.tar.gz'
-    url2 = ''
-    sha256 = ''
+    url2 = 'http://miniupnp.free.fr/files/download.php?file=miniupnpd-2.0.20161216.tar.gz'
     package = 'miniupnpd-2.0.20161216.tar.gz'
     name = 'MiniUPnP'
     foldername = 'miniupnpd-2.0.20161216'
